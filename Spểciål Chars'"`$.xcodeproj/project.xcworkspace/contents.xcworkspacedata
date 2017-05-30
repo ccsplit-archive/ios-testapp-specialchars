@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Special Chars&apos;&quot;`$.xcodeproj">
+      location = "self:/Users/cshay/Code/SpecialChars/Sp&#x1ec3;ci&#xe5;l Chars&apos;&quot;`$.xcodeproj">
    </FileRef>
 </Workspace>
